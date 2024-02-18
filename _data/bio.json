@@ -1,26 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Rayanna Dunn",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/rayanna-portfolio-img.jpg",
+    "email": "dunnrayanna@gmail.com",
+    "phone": "502-835-9145",
+    "website": "https://ray-dunn.github.io",
+    "summary": "I am studying for an Associates in Computer Science in the Department of Information Technology at Sullivan University. I expect to graduate in March, 2024.",
+    "location": { "address": "", "postalCode": "40229", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ray-dunn", "url": "http://github.com/ray-dunn" },
+      { "network": "linkedin", "username": "rayanna dunn", "url": "http://linkedin.com/in/rayanna-dunn" }
     ]
   },
   "interests": [
     { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Art" },
+    { "name": "Programming" },
+    { "name": "Design" }
   ],
   "skills": [
     {
